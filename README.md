@@ -1,2 +1,3 @@
-# Discord-backup-bot
-Original:https://github.com/ezz-gg/Verify_Bot
+# VerifybotRemake
+VerifybotRemakeですバックアップができます<br>
+<a href="https://bit.ly/zeanekoverify"></a>
