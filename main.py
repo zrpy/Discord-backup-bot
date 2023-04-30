@@ -20,7 +20,7 @@ embed_description = "認証をして会話に参加しましょう"
 button_name = "認証"
 bot_prefix = "zb!"
 bad = []
-owners=[855308519581548545]#add ur ip
+owners=[855308519581548545]#add ur id
 
 
 userdata = json.loads(open("data.json", 'r').read())
